@@ -45,8 +45,8 @@ Cross-platform language learning application.
 `React Native` `Expo` `Node.js` `PostgreSQL`
 
 ### [Convo](https://github.com/Nayekah/Convo)
-Collaborative software project built with modern software engineering practices.  
-`Software Engineering` `Collaboration` `Application Development`
+Secure web chat with end-to-end encrypted real-time messaging.  
+`React` `TypeScript` `Hono` `WebSocket` `PostgreSQL` `Cryptography`
 
 ## GitHub Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aldoyfa&theme=xcode&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
