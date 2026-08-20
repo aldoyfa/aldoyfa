@@ -1,7 +1,7 @@
 <div align="center">
 
 # Aldoy Fauzan Avanza
-
+<img width="498" height="281" alt="vestia-zeta-cat" src="https://github.com/user-attachments/assets/1cc21fd8-b192-48eb-92de-d55693f46bb7" />
 Information and Systems Technology @ Institut Teknologi Bandung
 
 [![GitHub](https://img.shields.io/badge/GitHub-aldoyfa-181717?style=flat-square\&logo=github)](https://github.com/aldoyfa)
@@ -11,8 +11,6 @@ Information and Systems Technology @ Institut Teknologi Bandung
 </div>
 
 ## About Me
-
-<img width="498" height="281" alt="vestia-zeta-cat" src="https://github.com/user-attachments/assets/1cc21fd8-b192-48eb-92de-d55693f46bb7" />
 
 I'm an undergraduate student interested in **software engineering, distributed systems, and cybersecurity**.
 
