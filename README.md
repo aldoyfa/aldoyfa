@@ -12,7 +12,7 @@ Information and Systems Technology @ Institut Teknologi Bandung
 
 ## About Me
 
-<div class="tenor-gif-embed" data-postid="4432244709720418099" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/vestia-zeta-cat-speen-hololive-gif-4432244709720418099">Vestia Zeta Cat GIF</a>from <a href="https://tenor.com/search/vestia+zeta-gifs">Vestia Zeta GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="498" height="281" alt="vestia-zeta-cat" src="https://github.com/user-attachments/assets/1cc21fd8-b192-48eb-92de-d55693f46bb7" />
 
 I'm an undergraduate student interested in **software engineering, distributed systems, and cybersecurity**.
 
@@ -49,17 +49,7 @@ Collaborative software project built with modern software engineering practices.
 `Software Engineering` `Collaboration` `Application Development`
 
 ## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aldoyfa&show_icons=true&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoyfa&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aldoyfa&theme=xcode&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
 <summary><b>More about my technical interests</b></summary>
