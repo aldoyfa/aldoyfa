@@ -12,7 +12,9 @@ Information and Systems Technology @ Institut Teknologi Bandung
 
 ## About Me
 
-I'm an undergraduate student interested in **software engineering, distributed systems, cybersecurity, computer networks, and low-level systems**.
+<div class="tenor-gif-embed" data-postid="4432244709720418099" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/vestia-zeta-cat-speen-hololive-gif-4432244709720418099">Vestia Zeta Cat GIF</a>from <a href="https://tenor.com/search/vestia+zeta-gifs">Vestia Zeta GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+I'm an undergraduate student interested in **software engineering, distributed systems, and cybersecurity**.
 
 I enjoy building software end-to-end, from application development and backend systems to testing, deployment, and documentation.
 
@@ -34,35 +36,30 @@ Currently exploring:
 
 ## Projects
 
-<div align="center">
+### [DSA Virtual Lab](https://github.com/aldoyfa/DSA-virtual-lab)
+Interactive full-stack platform for learning data structures and algorithms.  
+`React` `Node.js` `PostgreSQL` `Docker`
 
-<a href="https://github.com/aldoyfa/DSA-virtual-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoyfa&repo=DSA-virtual-lab&hide_border=true" />
-</a>
+### [BelajarIndo](https://github.com/aldoyfa/belajar-indo)
+Cross-platform language learning application.  
+`React Native` `Expo` `Node.js` `PostgreSQL`
 
-<a href="https://github.com/aldoyfa/belajar-indo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoyfa&repo=belajar-indo&hide_border=true" />
-</a>
-
-<a href="https://github.com/aldoyfa/padding-oracle-migration">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoyfa&repo=padding-oracle-migration&hide_border=true" />
-</a>
-
-<a href="https://github.com/aldoyfa/dh-psi-playlist">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aldoyfa&repo=dh-psi-playlist&hide_border=true" />
-</a>
-
-</div>
+### [Convo](https://github.com/Nayekah/Convo)
+Collaborative software project built with modern software engineering practices.  
+`Software Engineering` `Collaboration` `Application Development`
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aldoyfa&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoyfa&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aldoyfa&show_icons=true&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoyfa&layout=compact&hide_border=true"
+    height="165"
+  />
+</p>
 
 <details>
 <summary><b>More about my technical interests</b></summary>
