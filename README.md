@@ -25,7 +25,7 @@ I'm an undergraduate who likes building software **end to end**: backend and app
 
 ## 🎯 What I'm into
 
-| | |
+| Area | Focus |
 |---|---|
 | **Systems** | Distributed and networked systems · low-level systems |
 | **Security** | Applied cryptography · reverse engineering · digital forensics |
